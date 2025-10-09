@@ -1,4 +1,4 @@
-# Claims-Integrity-and-Risk-Analysis---Enhancing-Payout-Efficiency
+# Claims Integrity and Risk Analysis: Enhancing Payout Efficiency
 
 This is a SQL BigQuery Project completed in my Data Analytics Bootcamp.  
   
