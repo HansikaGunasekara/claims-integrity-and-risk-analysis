@@ -28,7 +28,7 @@ Using **Google BigQuery**, I developed a **fraud logic model** to analyze, valid
 |--------------|-------------|
 | 🧠 **Fraud Logic Model** | Rule-based model to identify suspicious claims |
 | 📊 **SQL Analytical Queries** | Aggregations and joins to reveal high-cost patterns |
-| 📈 **Summary Dashboard (Optional)** | Interactive view (via Looker Studio) |
+| 📈 **Summary Visualisations** | Interactive view (via Looker Studio) |
 
 ---
 
